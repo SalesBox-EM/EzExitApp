@@ -1,6 +1,6 @@
 export const metadata = {
-	title: 'EzexitInterview',
-	description: 'Page description',
+	title: 'EzSurveyPro',
+	description: 'EzSurveyPro',
 };
 
 import Hero from '@/components/hero';

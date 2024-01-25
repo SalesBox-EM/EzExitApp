@@ -12,8 +12,8 @@ const inter = Inter({
 });
 
 export const metadata = {
-	title: 'EzExit',
-	description: 'EzExit',
+	title: 'EzSurveyPro',
+	description: 'EzSurveyPro',
 };
 
 export default function RootLayout({

@@ -172,7 +172,7 @@ export default function Footer() {
 
 					{/* Copyrights note */}
 					<div className='text-sm text-gray-600 mr-4'>
-						&copy; EzexitInterview.com. All rights reserved.
+						&copy; EzSurveyPro.com. All rights reserved.
 					</div>
 				</div>
 			</div>
